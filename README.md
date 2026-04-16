@@ -13,7 +13,7 @@ It supports:
 
 - Command execution (`ls`, `echo`, `cat`, etc.)
 - Built-in commands (e.g., `cd`, `exit`)
-- Input/output redirection (`>`, `<`, `>>`)
+- Input/output redirection (only `>`)
 - Background execution (`&`)
 - Basic command parsing and tokenization
 - Process creation using `fork()` and `exec()`
