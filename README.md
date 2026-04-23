@@ -1,13 +1,13 @@
-# Hash Shell 🐚
+# Wish Shell 🐚
 
-Hash Shell is a lightweight Unix-like shell implemented in C for fun!  
+Wish Shell is a lightweight Unix-like shell implemented in C for fun!  
 It demonstrates how a basic command-line interpreter works, including **parsing, process creation, execution, and I/O redirection**.
 
 ---
 
 ## 📌 Project Overview
 
-Hash Shell is a simplified shell inspired by Unix shells such as `bash` and `sh`.
+Wish Shell is a simplified shell inspired by Unix shells such as `bash` and `sh`.
 
 It supports:
 
@@ -24,7 +24,7 @@ The goal of this project is to understand **Linux process model, system calls, a
 
 ## ⚙️ Architecture
 
-Hash Shell follows a classic shell execution pipeline:
+Wish Shell follows a classic shell execution pipeline:
 
 User Input → Lexer → Parser → Executor → OS (fork/exec)
 
